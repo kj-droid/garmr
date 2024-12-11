@@ -1,7 +1,7 @@
 
 # Garmr Lightweight Firewall
 
-Garmr is a lightweight firewall designed for minimal resource usage and quick setup.
+Garmr is a wolf described as a blood-stained guardian of Hel's gate. Alternativley a lightweight firewall designed for minimal resource usage and quick setup.
 
 ## Features
 
